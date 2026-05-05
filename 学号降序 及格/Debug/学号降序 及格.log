@@ -1,0 +1,4 @@
+﻿  学号降序 及格.c
+F:\Project1\学号降序 及格\学号降序 及格.c(18,8): warning C4013: “strcmp”未定义；假设外部返回 int
+F:\Project1\学号降序 及格\学号降序 及格.c(20,5): warning C4013: “strcpy”未定义；假设外部返回 int
+  学号降序 及格.vcxproj -> F:\Project1\Debug\学号降序 及格.exe
